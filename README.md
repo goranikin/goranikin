@@ -14,10 +14,6 @@ I believe that they'll be profound nourishment for the future.
 
 You can read my writing at [my blog](https://hyeok12053.dev/). I recommend reading [it](https://hyeok12053.dev/writing/personal-essay/itinerary), though I apologize to English readers — it's written in Korean.
 
-## Technical Focus
-
-I'm interested in the AI/ML field, especially computer vision and image generation. However, this is relatively more interesting than other fields and I haven't chosen what I'm going to dig into.
-
 ## Beyond Code
 
 When I'm not coding, I enjoy:
