@@ -5,7 +5,7 @@ Undergraduate at Seoul National University
 - 2020.03 ~ present
 
 AI Engineer at [Dalpha](https://www.dalpha.so/)
-- 2025.08 ~ 2025.10
+- 2025.08 ~ 2025.11
 
 ## About Me
 
