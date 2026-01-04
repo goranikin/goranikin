@@ -4,7 +4,7 @@ Undergraduate at Seoul National University
 - Majoring in Industrial Engineering (changed from Material Science Engineering)
 - 2020.03 ~ present
 
-AI Engineer at [Dalpha](https://www.dalpha.so/)
+AI Engineer at [Dalpha](https://app.dalpha.so/)
 - 2025.08 ~ 2025.11
 
 ## About Me
