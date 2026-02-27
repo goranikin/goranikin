@@ -12,7 +12,7 @@ AI Engineer at [Dalpha](https://app.dalpha.so/)
 I've been reading and writing. All the things I've written are my vestiges of my life.
 I believe that they'll be profound nourishment for the future.
 
-You can read my writing at [my blog](https://hyeok12053.dev/). I recommend reading [it](https://hyeok12053.dev/writing/personal-essay/itinerary), though I apologize to English readers — it's written in Korean.
+You can read my writing at [my SNS account](https://www.instagram.com/hyeok_12053/?hl=en). (Writings are in Korean, sorry to English readers.)
 
 ## Get in Touch
 
