@@ -7,6 +7,9 @@ Undergraduate at Seoul National University
 AI Engineer at [Dalpha](https://app.dalpha.so/)
 - 2025.08 ~ 2025.11
 
+Research Intern at [Comet Lab](https://comet.kaist.ac.kr/)
+- 2026.06 ~ 2026.08
+
 ## About Me
 
 I've been reading and writing. All the things I've written are my vestiges of my life.
