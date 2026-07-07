@@ -8,7 +8,7 @@ AI Engineer at [Dalpha](https://app.dalpha.so/)
 - 2025.08 ~ 2025.11
 
 Research Intern at [Comet Lab](https://comet.kaist.ac.kr/)
-- 2026.06 ~ 2026.08
+- 2026.06 ~ present
 
 ## About Me
 
